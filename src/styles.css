@@ -1,0 +1,43 @@
+form {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 2em;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+  text-align: center;
+  color: #000000;
+}
+h2 {
+  font-size: 50px;
+  font-weight: 900;
+  text-align: center;
+  color: #000000;
+}
+h3 {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  color: #000000;
+}
+h4 {
+  font-size: 40px;
+  text-align: center;
+}
+h5 {
+  font-size: 30px;
+}
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/095/305/original/skybackground.jpg?1693515425");
+  background-position: center center;
+  height: 80;
+}
+
+div {
+  display: block;
+  margin: 0 auto;
+}
+.row {
+  text-align: center;
+}
